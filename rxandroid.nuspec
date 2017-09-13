@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.RxAndroid.Droid</id>
+        <version>2.0.1</version>
+        <description>Xamarin Binding Library - RxAndroid</description>
+        <authors>NAXAM CO.,LTD</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - RxAndroid for Android</title>
+        <releaseNotes>RxAndroid v2.0.1</releaseNotes>
+        <summary>Xamarin Binding Library - RxAndroid</summary>
+        <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/rxandroid-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, rxandroid</tags>
+        <dependencies>
+            <dependency id="Naxam.RxJava2.Droid" version="2.1.2" />
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.RxAndroid.Droid/bin/Release/Naxam.RxAndroid.Droid.dll" target="lib/MonoAndroid10/Naxam.RxAndroid.Droid.dll" />
+    </files>
+</package>
