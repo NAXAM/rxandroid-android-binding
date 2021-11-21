@@ -3,7 +3,7 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.RxAndroid.Droid</id>
-        <version>1.2.1-pre1</version>
+        <version>1.2.1-pre2</version>
         <description>Xamarin Binding Library - RxAndroid</description>
         <authors>tuyen</authors>
         <owners>tuyen</owners>
@@ -17,7 +17,7 @@
         <copyright>Copyright (c) 2021 NewWave Solutions JSC</copyright>
         <tags>Xamarin.Android, rxandroid</tags>
         <dependencies>
-            <dependency id="Naxam.RxJava2.Droid" version="2.1.2" />
+            <dependency id="Naxam.RxJava.Droid" version="1.3.0-pre1" />
         </dependencies>
     </metadata>
     <!-- Optional 'files' node -->
