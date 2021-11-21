@@ -3,18 +3,18 @@
     <metadata>
         <!-- Required elements-->
         <id>Naxam.RxAndroid.Droid</id>
-        <version>2.0.1</version>
+        <version>1.2.1-pre1</version>
         <description>Xamarin Binding Library - RxAndroid</description>
-        <authors>NAXAM CO.,LTD</authors>
-        <owners>NAXAM CO.,LTD</owners>
+        <authors>tuyen</authors>
+        <owners>tuyen</owners>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <title>Naxam - RxAndroid for Android</title>
-        <releaseNotes>RxAndroid v2.0.1</releaseNotes>
+        <releaseNotes>RxAndroid v1.2.1</releaseNotes>
         <summary>Xamarin Binding Library - RxAndroid</summary>
         <iconUrl>https://avatars1.githubusercontent.com/u/25535951</iconUrl>
-        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <license type="expression">MIT</license>
         <projectUrl>https://github.com/NAXAM/rxandroid-android-binding</projectUrl>
-        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <copyright>Copyright (c) 2021 NewWave Solutions JSC</copyright>
         <tags>Xamarin.Android, rxandroid</tags>
         <dependencies>
             <dependency id="Naxam.RxJava2.Droid" version="2.1.2" />
